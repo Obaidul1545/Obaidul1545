@@ -84,7 +84,7 @@ It allows users to search for study partners based on specific subjects or by lo
 
 ---
 
-### 👉 **2. StudyMate – Student Helper App**
+### 👉 **2. Hero Apps**
 - 🔗 **Live:** https://get-hero-apps.netlify.app/  
 - 📝 **Overview:** Hero Apps is a fully responsive, React-based web application that displays detailed information about various apps, including ratings, reviews, and download counts.
 The platform is completely dynamic, featuring app search functionality, install/uninstall actions, localStorage management, chart-based data visualization, and smooth loading animations during route navigation. 
