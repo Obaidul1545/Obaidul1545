@@ -2,7 +2,7 @@
         Banner Image
 =========================== -->
 <p align="center">
-  <img src="https://i.ibb.co/vVjn9Qf/your-banner.png" alt="Banner" />
+  <img src="https://i.ibb.co.com/JFGnRVqY/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm <strong>Md Obaidul Islam</strong> 👋</h1>
@@ -94,7 +94,7 @@ The platform is completely dynamic, featuring app search functionality, install/
 
 ---
 
-### 👉 **3. Simple CRUD Project**
+### 👉 **3. SkillSwap – A Local Skill Exchange Platform**
 - 🔗 **Live:** https://skillswap-65fb9.web.app/ 
 - 📝 **Overview:** SkillSwap is a local skill exchange platform built with React, designed to connect people who want to share, learn, or trade skills.
 Users can browse skill listings, view detailed skill pages, book sessions, and manage their profiles seamlessly.
