@@ -1,48 +1,109 @@
-# Hi there, I'm Md Obaidul Islam 👋  
-### Front-End Developer | React.js Enthusiast | JavaScript Lover
+<!-- ===========================
+        Banner Image
+=========================== -->
+<p align="center">
+  <img src="https://i.ibb.co/vVjn9Qf/your-banner.png" alt="Banner" />
+</p>
 
-🚀 I specialize in building modern, fast, and responsive web applications using  
-**React, TailwindCSS, Firebase, TanStack Query, Axios**, and more.
+<h1 align="center">Hi, I'm <strong>Md Obaidul Islam</strong> 👋</h1>
+<h3 align="center">Front-End Developer | React & JavaScript </h3>
 
 ---
 
-## 🔥 Skills & Technologies
+## 👨‍💻 About Me  
+Hi! I'm a passionate **Front-End Developer**, specializing in building modern and user-friendly web applications.  
+I love working with **React, TailwindCSS, Firebase**, and exploring new technologies to level up my development journey.
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🔹 Currently doing:
+- 🚀 Exploring **Back-End**   
+- 🔧 Improving skills with **TanStack Query & Axios**  
+- 📚 Learning **Advanced React Patterns**
+- 🌐 Learning **Node.js, Express & MongoDB (MERN Stack)**
+- 🏗️ Building small backend APIs to understand server-side concepts
+- ⚡ Improving full-stack workflow & API integration skills
 
-**Backend / Tools:**  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+## 🛠️ Skills & Technologies
+
+<p >
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /><br/>
+
+  <!-- Backend / Tools -->
+  <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb,git,github," /><br/>
+
+</p>
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.facebook.com/obaidul491519" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/obaidul1545/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+ 
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p>
+  
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Obaidul1545&theme=tokyonight" height="165" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=Obaidul1545&show_icons=true&theme=tokyonight" height="165" />
 
----
+</p>
 
-## 🌱 Currently Learning  
-- Advanced React Patterns  
-- Firebase Auth & Firestore  
-- TanStack Query  
-- Next.js (Soon!)
-
----
-
-## 📫 Connect With Me  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obaidul1545&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ **If you like my work, consider giving a star!**
+
+# 📌 Pinned Repositories
+
+### 👉 **1. StudyMate — Find Your Perfect Study Partner**
+- 🔗 **Live:** https://study-mate-learning.netlify.app/
+- 📝 **Overview:** StudyMate is a MERN Stack–based web platform that helps students connect with each other, find study partners, and learn collaboratively.
+It allows users to search for study partners based on specific subjects or by location, making it easier to study together more effectively.
+- 🧩 **Tech Stack:** React, TailwindCSS, DaisyUI, Firebase, Axios , Node js, Express, MongoDB   
+
+- ➡️ https://github.com/Obaidul1545/study-mate-client
+
+---
+
+### 👉 **2. StudyMate – Student Helper App**
+- 🔗 **Live:** https://get-hero-apps.netlify.app/  
+- 📝 **Overview:** Hero Apps is a fully responsive, React-based web application that displays detailed information about various apps, including ratings, reviews, and download counts.
+The platform is completely dynamic, featuring app search functionality, install/uninstall actions, localStorage management, chart-based data visualization, and smooth loading animations during route navigation. 
+- 🧩 **Tech Stack:** React, DaisyUI, Axios, React-Router, Recharts
+ 
+- ➡️ https://github.com/Obaidul1545/hero-apps
+
+---
+
+### 👉 **3. Simple CRUD Project**
+- 🔗 **Live:** https://skillswap-65fb9.web.app/ 
+- 📝 **Overview:** SkillSwap is a local skill exchange platform built with React, designed to connect people who want to share, learn, or trade skills.
+Users can browse skill listings, view detailed skill pages, book sessions, and manage their profiles seamlessly.
+The platform is fully responsive, feature-rich, and incorporates smooth animations for a modern user experience.
+It supports Email & Google authentication and behaves as a Single Page Application (SPA), ensuring fast navigation without page reloads  
+- 🧩 **Tech Stack:** React, daisyui, React-router, Firebase Authentication.
+- 
+- ➡️ https://github.com/Obaidul1545/skill-swap
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to explore my projects and leave a star.**
