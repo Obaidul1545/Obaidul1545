@@ -74,7 +74,14 @@ I love working with **React, TailwindCSS, Firebase**, and exploring new technolo
 
 # 📌 Pinned Repositories
 
-### 👉 **1. StudyMate — Find Your Perfect Study Partner**
+### 👉 **1. Garments Order & Production Tracker System**
+- 🔗 **Live:** https://garments-tracker-system.web.app
+- 📝 **Overview:** The Garments Order & Production Tracker System is a full‑stack web application designed to help small and medium‑sized garment factories efficiently manage orders, products, production stages, and user roles. The system supports Admin, Manager, and Buyer roles with role‑based dashboards, real‑time order tracking, and analytics.
+- 🧩 **Tech Stack:** React, TailwindCSS, DaisyUI, TanStack React Query, Firebase, Axios , Node js, Express, MongoDB   
+
+- ➡️ https://github.com/Obaidul1545/garments-tracker-system-client
+
+### 👉 **2. StudyMate — Find Your Perfect Study Partner**
 - 🔗 **Live:** https://study-mate-learning.netlify.app/
 - 📝 **Overview:** StudyMate is a MERN Stack–based web platform that helps students connect with each other, find study partners, and learn collaboratively.
 It allows users to search for study partners based on specific subjects or by location, making it easier to study together more effectively.
@@ -84,7 +91,7 @@ It allows users to search for study partners based on specific subjects or by lo
 
 ---
 
-### 👉 **2. Hero Apps**
+### 👉 **3. Hero Apps**
 - 🔗 **Live:** https://get-hero-apps.netlify.app/  
 - 📝 **Overview:** Hero Apps is a fully responsive, React-based web application that displays detailed information about various apps, including ratings, reviews, and download counts.
 The platform is completely dynamic, featuring app search functionality, install/uninstall actions, localStorage management, chart-based data visualization, and smooth loading animations during route navigation. 
@@ -94,7 +101,7 @@ The platform is completely dynamic, featuring app search functionality, install/
 
 ---
 
-### 👉 **3. SkillSwap – A Local Skill Exchange Platform**
+### 👉 **4. SkillSwap – A Local Skill Exchange Platform**
 - 🔗 **Live:** https://skillswap-65fb9.web.app/ 
 - 📝 **Overview:** SkillSwap is a local skill exchange platform built with React, designed to connect people who want to share, learn, or trade skills.
 Users can browse skill listings, view detailed skill pages, book sessions, and manage their profiles seamlessly.
