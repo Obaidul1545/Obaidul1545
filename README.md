@@ -2,7 +2,7 @@
         Banner Image
 =========================== -->
 <p align="center">
-  <img src="https://i.ibb.co.com/JFGnRVqY/banner.png" alt="Banner" />
+  <img src="https://res.cloudinary.com/dooueblyg/image/upload/v1768843386/banner_guao7b.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm <strong>Md Obaidul Islam</strong> 👋</h1>
